@@ -1,0 +1,198 @@
+[submodule "1/vasilkin_maria"]
+	path = 1/vasilkin_maria
+	url = https://github.com/mariavasilkin/apcs-hw.git
+[submodule "3/kim_justin"]
+	path = 3/kim_justin
+	url = https://github.com/justinkim/apcs-hw.git
+[submodule "3/lim_michael"]
+	path = 3/lim_michael
+	url = https://github.com/michael-lim/apcs-hw-pd3.git
+[submodule "3/frajmund_leon"]
+	path = 3/frajmund_leon
+	url = https://github.com/voidyknight/apcs-hw
+[submodule "3/lee_calvin"]
+	path = 3/lee_calvin
+	url = https://github.com/calvinleenyc/apcshw.git
+[submodule "2/duchovni_peter"]
+	path = 2/duchovni_peter
+	url = https://github.com/archaephyrryx/hw.git
+[submodule "3/brassell_nathaniel"]
+	path = 3/brassell_nathaniel
+	url = https://github.com/NathanielBrassell/apcsz-hw.git
+[submodule "1/amog_anjelika"]
+	path = 1/amog_anjelika
+	url = https://github.com/anjelikalynne/apcs-hw-spring-2014.git
+[submodule "2/binshtok_matthew"]
+	path = 2/binshtok_matthew
+	url = https://github.com/matthewbinshtok/apcsz-hw.git
+[submodule "2/bresnahan_leslie"]
+	path = 2/bresnahan_leslie
+	url = https://github.com/les-bres/apcs-hw
+[submodule "1/chaiken_miranda"]
+	path = 1/chaiken_miranda
+	url = https://github.com/mchaiken/hw.git
+[submodule "2/chan_lecvy"]
+	path = 2/chan_lecvy
+	url = https://github.com/Lecvychan/apcs-hw.git
+[submodule "1/cheang_eric"]
+	path = 1/cheang_eric
+	url = https://github.com/Eric-Cheang/APCS-HW-Spring2014.git
+[submodule "2/chen_james"]
+	path = 2/chen_james
+	url = https://github.com/theJamesChen/james-chen-apcs-hw.git
+[submodule "1/chen_jane"]
+	path = 1/chen_jane
+	url = https://github.com/jchen2186/apcs-hw.git
+[submodule "2/cho_yoon"]
+	path = 2/cho_yoon
+	url = https://github.com/Yoon-Cho/apcs-hw.git
+[submodule "1/choudhury_ishmam"]
+	path = 1/choudhury_ishmam
+	url = https://github.com/ichoudhury/apcs-hw.git
+[submodule "2/dai_jerry"]
+	path = 2/dai_jerry
+	url = https://github.com/jdai315/apcs-hw.zamansky
+[submodule "1/dong_ling"]
+	path = 1/dong_ling
+	url = https://github.com/asprout/apcs-hw.git
+[submodule "3/drimba_george"]
+	path = 3/drimba_george
+	url = https://github.com/gdrimba/apcs-hw.git
+[submodule "1/dvorkin_david"]
+	path = 1/dvorkin_david
+	url = https://github.com/ddvorkin/apcs-hw.git
+[submodule "3/hargil_anya"]
+	path = 3/hargil_anya
+	url = https://github.com/ahargil/apcs-hw.git
+[submodule "1/hlebowicz_thomas"]
+	path = 1/hlebowicz_thomas
+	url = https://github.com/thlebowicz/apcs-hw.git
+[submodule "2/ho_lise"]
+	path = 2/ho_lise
+	url = https://github.com/koprty/apcs-hw.git
+[submodule "2/hong_jamie"]
+	path = 2/hong_jamie
+	url = https://github.com/jamiehong/zamansky
+[submodule "2/huang_michael(zhao)"]
+	path = 2/huang_michael(zhao)
+	url = https://github.com/Mikester591/APCS-hw.git
+[submodule "2/ioustous_alexander"]
+	path = 2/ioustous_alexander
+	url = https://github.com/alexioust/apcs-hw.git
+[submodule "1/kagno_dmitriy"]
+	path = 1/kagno_dmitriy
+	url = https://github.com/OrangeRed/kagno_dmitriy
+[submodule "2/kan_kevin"]
+	path = 2/kan_kevin
+	url = https://github.com/kingkan97/APCS-Homework.git
+[submodule "2/kandola_anmolpreet"]
+	path = 2/kandola_anmolpreet
+	url = https://github.com/akandola/apcshw.git
+[submodule "2/kim_christopher"]
+	path = 2/kim_christopher
+	url = https://github.com/chriskim511/hw.git
+[submodule "3/lamniji_reda"]
+	path = 3/lamniji_reda
+	url = https://github.com/lamniji/Apcs-HomieWork.git
+[submodule "3/lee_andrew"]
+	path = 3/lee_andrew
+	url = https://github.com/andrewlee120/apcs-hw.git
+[submodule "1/lee_brian"]
+	path = 1/lee_brian
+	url = https://github.com/brianlee1/apcs-hw.git
+[submodule "2/li_norman"]
+	path = 2/li_norman
+	url = https://github.com/normli2012/apcs2_hw.git
+[submodule "1/liao_emily"]
+	path = 1/liao_emily
+	url = https://github.com/emilyliao97/apcs-hw
+[submodule "3/lim_lawrence"]
+	path = 3/lim_lawrence
+	url = https://github.com/OokamiNya/apcs-hw-lawrence-lim.git
+[submodule "3/lo_jacky"]
+	path = 3/lo_jacky
+	url = https://github.com/jljcky/apcs-hw.git
+[submodule "3/lok_stanley"]
+	path = 3/lok_stanley
+	url = https://github.com/stanlok237/apcs-spring.git
+[submodule "2/lou_emma"]
+	path = 2/lou_emma
+	url = https://github.com/safirerose879/APCS-SPRING-HW.git
+[submodule "2/mendoza_adriel"]
+	path = 2/mendoza_adriel
+	url = https://github.com/adrielmendoza/apcs-hw.git
+[submodule "3/milnikiewicz_fish"]
+	path = 3/milnikiewicz_fish
+	url = https://github.com/crabalockerfishwife/apcs-hw.git
+[submodule "3/o'meara_sappha"]
+	path = 3/o'meara_sappha
+	url = https://github.com/sapphacs13/apcs-spring-hw
+[submodule "1/piccato_aida"]
+	path = 1/piccato_aida
+	url = https://github.com/apiccato/apcs-hw
+[submodule "1/puszklewicz_hubert"]
+	path = 1/puszklewicz_hubert
+	url = https://github.com/hpuszlewicz/APCS-HW.git
+[submodule "2/rabb_tasmiur"]
+	path = 2/rabb_tasmiur
+	url = https://github.com/Tazmere/APCS-HW.git
+[submodule "1/romanoff_nicholas"]
+	path = 1/romanoff_nicholas
+	url = https://github.com/nicholasromanoff/apcs-hw.git
+[submodule "1/shivraj_devendra"]
+	path = 1/shivraj_devendra
+	url = https://github.com/devendrashivraj/apcs-hw.git
+[submodule "3/shoyfer_elvin"]
+	path = 3/shoyfer_elvin
+	url = https://github.com/eshoyfer/apcs-hw.git
+[submodule "2/sikowitz_andrew"]
+	path = 2/sikowitz_andrew
+	url = https://github.com/asikowitz/apcs.git
+[submodule "1/sobhai_kemraj"]
+	path = 1/sobhai_kemraj
+	url = https://github.com/KbhackerVGM97/apcs-hw.git
+[submodule "3/tan_chesley"]
+	path = 3/tan_chesley
+	url = https://github.com/ChesleyTan/apcs-z-hw.git
+[submodule "1/tsui_derek"]
+	path = 1/tsui_derek
+	url = https://github.com/d-tsui/apcs-hw.git
+[submodule "1/wang_dionis"]
+	path = 1/wang_dionis
+	url = https://github.com/DionisWang/my-hw.git
+[submodule "2/wang_tianshi"]
+	path = 2/wang_tianshi
+	url = https://github.com/twangMRwang123/apcs-hw.git
+[submodule "1/wei_cardy"]
+	path = 1/wei_cardy
+	url = https://github.com/Cwei1/APCS-Homework
+[submodule "1/wells_malcolm"]
+	path = 1/wells_malcolm
+	url = https://github.com/malcolmwells/apcs-hw.git
+[submodule "1/wong_bismark"]
+	path = 1/wong_bismark
+	url = https://github.com/picklepie159/apcs-hw.git
+[submodule "3/wong_eric"]
+	path = 3/wong_eric
+	url = https://github.com/ericwongg/apcs-springterm-hw.git
+[submodule "1/wong_fawn"]
+	path = 1/wong_fawn
+	url = https://github.com/fawnwong/apcs-hw.git
+[submodule "3/wong_vincent"]
+	path = 3/wong_vincent
+	url = https://github.com/Vincent96/apcs-hw.git
+[submodule "1/yan_johnathan"]
+	path = 1/yan_johnathan
+	url = https://github.com/johnathanyan/apcs-z-hw
+[submodule "2/yip_sean"]
+	path = 2/yip_sean
+	url = https://github.com/Bouowmx/Sean-Yip-APCS-Z.git
+[submodule "3/zhou_max"]
+	path = 3/zhou_max
+	url = https://github.com/Citronnade/apcs-hw-spr14.git
+[submodule "2/zhu_tina"]
+	path = 2/zhu_tina
+	url = https://github.com/laptopnewbie/apcs-hw.git
+[submodule "3/burghard_claire"]
+	path = 3/burghard_claire
+	url = https://github.com/claireburghard/apcs-hw.git
