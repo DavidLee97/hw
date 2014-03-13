@@ -1,0 +1,8 @@
+ for i in `cat replines`                            hw 
+do
+name=`echo $i | cut -d, -f1`
+pd=`echo $i | cut -d, -f2`
+rep=`echo $i | cut -d, -f3`
+git submodule add $rep $pd/$name
+done
+
