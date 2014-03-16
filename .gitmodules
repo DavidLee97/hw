@@ -199,9 +199,6 @@
 [submodule "1/osipov_shamay"]
 	path = 1/osipov_shamay
 	url = https://github.com/shamay/apcs-hw
-[submodule "riley_1/wong"]
-	path = riley_1/wong
-	url = https://github.com/wileyrong/hw-new.git
 [submodule "2/zheng_kenny"]
 	path = 2/zheng_kenny
 	url = https://github.com/kzhengstuy/apcs-stuy-z.git
