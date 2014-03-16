@@ -196,3 +196,48 @@
 [submodule "3/burghard_claire"]
 	path = 3/burghard_claire
 	url = https://github.com/claireburghard/apcs-hw.git
+[submodule "1/osipov_shamay"]
+	path = 1/osipov_shamay
+	url = https://github.com/shamay/apcs-hw
+[submodule "riley_1/wong"]
+	path = riley_1/wong
+	url = https://github.com/wileyrong/hw-new.git
+[submodule "2/zheng_kenny"]
+	path = 2/zheng_kenny
+	url = https://github.com/kzhengstuy/apcs-stuy-z.git
+[submodule "3/chase_kyler"]
+	path = 3/chase_kyler
+	url = https://github.com/kylerchase/apcs-hw.git
+[submodule "3/gokhberg_julia"]
+	path = 3/gokhberg_julia
+	url = https://github.com/juliagokh/apcs-hw.git
+[submodule "3/quispe_sunnam"]
+	path = 3/quispe_sunnam
+	url = https://github.com/konceq/apcs-hw
+[submodule "1/olenick_jacob"]
+	path = 1/olenick_jacob
+	url = https://github.com/jakeolenick/apcs-hw.git
+[submodule "2/zeng_joey"]
+	path = 2/zeng_joey
+	url = https://github.com/joey--zeng/apcs-hw.git
+[submodule "3/yeung_albert"]
+	path = 3/yeung_albert
+	url = https://github.com/alb-yeung/apcs-hw.git
+[submodule "3/tong_joey"]
+	path = 3/tong_joey
+	url = https://github.com/joeytheasian/apcs-hw
+[submodule "2/ko_sehee"]
+	path = 2/ko_sehee
+	url = https://github.com/christinako/apcs-z.git
+[submodule "2/chen_jihong(david)"]
+	path = 2/chen_jihong(david)
+	url = https://github.com/davidc97/apcshw.git
+[submodule "2/hegazy_omar"]
+	path = 2/hegazy_omar
+	url = https://github.com/omarhegazy/apcs-hw.git
+[submodule "3/zhao_wilbur"]
+	path = 3/zhao_wilbur
+	url = https://github.com/wilzhao/apcs-hw.git
+[submodule "2/ruby_emily"]
+	path = 2/ruby_emily
+	url = https://github.com/eruby/apcs-hw.git
