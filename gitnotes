@@ -1,0 +1,14 @@
+git submodule update --init
+git submodule foreach git pull origin master
+or git pull --recurse
+then
+git commit
+and
+git push
+
+other commands 
+git pull --recurse-submodules
+
+and
+git submodule update --recursive
+
