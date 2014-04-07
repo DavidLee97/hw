@@ -259,3 +259,6 @@
 [submodule "1/malhotra_anish"]
 	path = 1/malhotra_anish
 	url = https://github.com/bighatman/apcs-hw.git
+[submodule "2/htike_shein"]
+	path = 2/htike_shein
+	url = https://github.com/SheinH/APCS-HW
